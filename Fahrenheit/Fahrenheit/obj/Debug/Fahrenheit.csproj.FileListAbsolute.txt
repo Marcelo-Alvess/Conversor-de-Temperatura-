@@ -1,0 +1,30 @@
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Properties.Resources.resources
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+C:\Users\Aluno\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csprojAssemblyReference.cache
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Properties.Resources.resources
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.GenerateResource.cache
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.CoreCompileInputs.cache
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+D:\DS ETEC HORÁCIO\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Properties.Resources.resources
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+C:\Users\User\Desktop\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
